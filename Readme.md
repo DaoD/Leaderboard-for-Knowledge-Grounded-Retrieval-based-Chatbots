@@ -1,11 +1,12 @@
 # Knowledge-grounded Retrieval-based Chatbots
 
 
-Knowledge-grounded response selection in retrieval-based chatbot is a task which aims to select the most suitable response from a set of candidates. The selected response should be not only coherent with the context but also consistent with the given knowledge. The knowledge here is usually represented as document. This task is attracting more and more attention in both academia and industry. However, no one has maintained a leaderboard and a collection of popular papers and datasets yet. The main objective of this repository is to provide a quick overview of benchmark datasets and the state-of-the-art studies on this task.
+Knowledge-grounded response selection in retrieval-based chatbot is a task which aims to select the most suitable response from a set of candidates. The selected response should be not only coherent with the context but also consistent with the given knowledge. The knowledge here is usually represented by documents. This task is attracting more and more attention in both academia and industry. However, no one has maintained a leaderboard and a collection of popular papers and datasets yet. The main objective of this repository is to provide a quick overview of benchmark datasets and the state-of-the-art studies on this task.
 
 ## Datasets
 
 ### Persona-chat
+[Zhang et al.](https://github.com/facebookresearch/ParlAI/tree/master/projects/personachat) released the original version. [[download]](https://github.com/facebookresearch/ParlAI/tree/mturk_archive)
 
 ### CMUDoG
 
