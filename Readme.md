@@ -6,9 +6,12 @@ Knowledge-grounded response selection in retrieval-based chatbot is a task which
 ## Datasets
 
 ### Persona-chat
-[Zhang et al.](https://github.com/facebookresearch/ParlAI/tree/master/projects/personachat) released the original version. [[download]](https://github.com/facebookresearch/ParlAI/tree/mturk_archive)
+- [Zhang et al.](https://github.com/facebookresearch/ParlAI/tree/master/projects/personachat) released the original version. [[download]](https://github.com/facebookresearch/ParlAI/tree/mturk_archive)
+- [Gu et al.](https://www.aclweb.org/anthology/2020.findings-emnlp.127.pdf) released a version with vocabulary and embeddings. [[download]](https://github.com/JasonForJoy/FIRE)
 
 ### CMUDoG
+- [Zhou et al.](https://arxiv.org/pdf/1809.07358.pdf) released the original version. [[download]](https://github.com/festvox/datasets-CMU_DoG)
+- [Gu et al.](https://www.aclweb.org/anthology/2020.findings-emnlp.127.pdf) released a version with vocabulary and embeddings. [[download]](https://github.com/JasonForJoy/FIRE)
 
 ## Leaderboard
 
