@@ -61,4 +61,4 @@ Knowledge-grounded response selection in retrieval-based chatbot is a task which
 
 ## Remark
 
-The studies we present here may be incomplete. Please feel free to open issues, pull requests or contact us to add more new studies.
+The studies we present here may be incomplete. Please feel free to open issues, pull requests, or contact us to add more new studies.
