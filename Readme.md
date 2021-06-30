@@ -1,6 +1,5 @@
 # Knowledge-grounded Retrieval-based Chatbots
 
-
 Knowledge-grounded response selection in retrieval-based chatbot is a task which aims to select the most suitable response from a set of candidates. The selected response should be not only coherent with the context but also consistent with the given knowledge. The knowledge here is usually represented by documents. This task is attracting more and more attention in both academia and industry. However, no one has maintained a leaderboard and a collection of popular papers and datasets yet. The main objective of this repository is to provide a quick overview of benchmark datasets and the state-of-the-art studies on this task.
 
 ## Datasets
@@ -59,3 +58,7 @@ Knowledge-grounded response selection in retrieval-based chatbot is a task which
 | CSN                      |   69.8  |   82.7  |   94.0  | Content Selection Network for Document-grounded Retrieval-based Chatbots. ECIR 2021. [[paper]](https://arxiv.org/pdf/2101.08426.pdf) [[code]](https://github.com/DaoD/CSN)|
 | RSM-DCK                  |   79.3  |   88.8  |   96.7  | Learning to Detect Relevant Contexts and Knowledge for Response Selection in Retrieval-based Dialogue Systems. CIKM 2020. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3340531.3411967)|
 | FIRE                     |   81.8  |   90.8  |   97.4  | Filtering before Iteratively Referring for Knowledge-Grounded Response Selection in Retrieval-Based Chatbots. EMNLP 2020: Findings. [[paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.127.pdf) [[code]](https://github.com/JasonForJoy/FIRE)|
+
+## Remark
+
+The studies we present here may be incomplete. Please feel free to open issues, pull requests or contact us to add more new studies.
